@@ -26,12 +26,12 @@ body {
     text-align: center;
     background-color: lightgrey;
     background-image: url(../afbeeldingen/DenHaag1.PNG);
-    background-size: 55%;
+    background-size: 45%;
     background-position: center;
     background-repeat: no-repeat;
     color: white;
-    height:60px;
-    padding: 10px;
+    height:auto;
+    padding:10px;
     margin-bottom: 8px;
     font-family: 'Ubuntu', sans-serif;
     }
