@@ -49,7 +49,7 @@ body {
   color: white;
   }
 .scherm {
-  width: 400px;
+  width: auto;
   height: auto;
   background-color: #33d4ff;
   display: inline-block;
