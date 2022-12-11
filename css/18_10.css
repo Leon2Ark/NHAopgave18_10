@@ -30,7 +30,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     color: white;
-    padding: 60px;
+    height:60px;
+    padding: 10px;
+    margin-bottom; 8px;
     font-family: 'Ubuntu', sans-serif;
     }
 .menu ul {
